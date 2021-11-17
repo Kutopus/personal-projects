@@ -61,14 +61,6 @@ def target():
             inf2 = Label(root, text="Stopped").grid(row=6, column=0)
 
 
-
-
-
-
-
-
-
-
 def browser():
     webbrowser.open("https://humanbenchmark.com/")
 
